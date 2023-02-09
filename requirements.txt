@@ -8,3 +8,4 @@ pip==22.2.2
 streamlit==1.17.0
 pandas==1.4.4
 pandas-datareader==0.10.0
+tensorflow==2.11.0
