@@ -1,6 +1,7 @@
 #Install only the required packages
 
 yfinance==0.2.10
+scikit-learn==1.2.1
 numpy==1.24.2
 matplotlib==3.5.2
 keras==2.11.0
